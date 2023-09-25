@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class AtmInterface
 {
     float balance;
-    int PIN=1412;
+    int PIN=1412
     public void checkPin(){
         System.out.println("----Welcome To My ATM------");
         System.out.print("Enter the pin:-");
